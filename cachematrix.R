@@ -3,7 +3,7 @@
 
 ## Caching The Inverse of a Matrix
 
-## In this assignment, I while make a method to cache the inverse
+## In this assignment, I will make a method to cache the inverse
 ## of a matrix
 
 ## For example as illustration, consider we have a square matrix
@@ -41,6 +41,8 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 ## Write a short comment describing this function
+
+## Now, this function below will calculate the inverse of a matrix
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
